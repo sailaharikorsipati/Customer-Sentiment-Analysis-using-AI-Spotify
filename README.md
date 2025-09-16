@@ -4,7 +4,7 @@ From raw Reddit chatter to decision-ready strategy — this AI-powered app trans
 
 ## 👉 🎥 Watch the Demo Video
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 Spotify users share thousands of unfiltered opinions on Reddit every day. Traditional survey methods often miss these raw signals. This project leverages Generative AI + Reddit data to capture, analyze, and present consumer sentiment in real time.
 
@@ -18,7 +18,7 @@ Track sentiment trends over time after product launches or pricing changes.
 
 Directly ask questions in plain English and get AI-grounded answers.
 
-✨ Key Features
+## ✨ Key Features
 
 Sentiment Classification (AI-powered)
 Uses GPT models to classify each Reddit comment as Positive, Neutral, or Negative — handling sarcasm, slang, and mixed opinions that keyword-based tools miss.
@@ -44,7 +44,7 @@ Surfaces the most influential customer voices, validated by community upvotes.
 Download Options
 Export raw Reddit comments or processed insights as CSV for further analysis.
 
-🛠️ Tools & Tech Stack
+## 🛠️ Tools & Tech Stack
 
 Python (core app)
 
@@ -58,7 +58,7 @@ Altair (data visualization)
 
 Pandas / NumPy (data processing)
 
-📊 Business Use Cases
+## 📊 Business Use Cases
 
 Product Strategy → Detect UI or feature pain points before churn rises.
 
@@ -68,7 +68,7 @@ Competitive Benchmarking → Extend to multiple music apps for cross-platform in
 
 Early Warning System → Spot spikes in negative chatter before NPS drops or press backlash.
 
-🔮 Possible Enhancements
+## 🔮 Possible Enhancements
 
 Multi-app benchmarking (Spotify vs Apple Music vs YouTube Music).
 
@@ -78,8 +78,8 @@ Integration with live dashboards for continuous monitoring.
 
 Fine-tuned sentiment model for domain-specific accuracy.
 
-📥 Demo & Access
+## 📥 Demo & Access
 
-👉 Watch the Full Demo Video
+👉 Watch the Full Demo Video (https://drive.google.com/file/d/1PMmnGML8fUVcmatYJl-Eo8-hB_fW8ahY/view?usp=drive_link)
 
 👉 Try locally by cloning the repo and running streamlit run app.py.
