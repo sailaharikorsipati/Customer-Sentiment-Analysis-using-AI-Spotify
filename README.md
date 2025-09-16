@@ -2,7 +2,7 @@
 
 From raw Reddit chatter to decision-ready strategy — this AI-powered app transforms unstructured user feedback into insights that marketing and product leaders can act on.
 
-👉 🎥 Watch the Demo Video
+## 👉 🎥 Watch the Demo Video
 
 🚀 Project Overview
 
