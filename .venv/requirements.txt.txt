@@ -1,6 +1,0 @@
-streamlit
-praw
-pandas
-nltk
-openai
-python-dotenv
